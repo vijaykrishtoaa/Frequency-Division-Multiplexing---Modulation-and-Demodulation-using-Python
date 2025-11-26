@@ -33,5 +33,9 @@ __Procedure__:
 7 — Demodulate each isolated channel (coherent) and low-pass filter to recover baseband
 
 __Output_:
+![WhatsApp Image 2025-11-26 at 20 10 21_61aeb315](https://github.com/user-attachments/assets/e4f963a7-0736-4ac7-8ecf-74c34a4cfe31)
+![WhatsApp Image 2025-11-26 at 20 10 21_6188b8e7](https://github.com/user-attachments/assets/e16cb3c3-5acf-4c4d-b95f-5ad1d69d7685)
+
 
 __Result__:
+Thus, Frequency division multiplexing is done experimentally and output is verified.
